@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vejskvit&label=Profile%20views&color=0e75b6&style=flat" alt="vejskvit" /> </p>
 
-- 🔭 I’m currently working on **anwee**
+- 🔭 I’m currently working on **discord bots**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently working with **Node.js**
 
 - 💬 Ask me about **discord.py, python, discord.js**
 
-- 📫 How to reach me **vejskvit@gmail.com**
+- 📫 How to reach me **vejskvit@gmail.com** or **Discord: VEJ#4240**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
